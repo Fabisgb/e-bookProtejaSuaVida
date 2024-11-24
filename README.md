@@ -1,3 +1,5 @@
+![Capa do Projeto](main/proteja sua vida!.png)
+
 # E-book Proteja Sua Vida! 🔒
 O uso Inteligente dos Smartphones.
 
