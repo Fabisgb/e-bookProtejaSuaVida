@@ -1,8 +1,6 @@
 # E-book Proteja Sua Vida! 🔒
 O uso Inteligente dos Smartphones.
 
-![Capa do Projeto](Protejasuavida!.png)
-
 ## 📒 Descrição  
 Este projeto explora o uso de IAs generativas para criar um e-book com conteúdos visuais, textuais e estéticos.  
 
