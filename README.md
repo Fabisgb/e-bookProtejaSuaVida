@@ -1,3 +1,5 @@
+[Baixar meu e-book](./caminho/para/o/arquivo.pdf)
+
 # E-book Proteja Sua Vida! 🔒
 O uso Inteligente dos Smartphones.
 
@@ -28,5 +30,5 @@ A criação deste projeto mostrou como as IAs podem acelerar processos criativos
 ## 🌍 Compartilhe  
 Gostou? Deixe um ⭐ no repositório e compartilhe nas redes sociais com a hashtag **#LabDIONattyOrNot**!  
 
-[Baixar meu e-book](./caminho/para/o/arquivo.pdf)
+
 
