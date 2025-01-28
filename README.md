@@ -1,4 +1,4 @@
-[Baixar meu e-book] (https://github.com/Fabisgb/e-bookProtejaSuaVida/blob/dedc5d7a4e64e51101586c419339c3c423703add/Proteja-sua-vida%20final.pdf)
+[Baixar meu e-book](https://github.com/Fabisgb/e-bookProtejaSuaVida/blob/dedc5d7a4e64e51101586c419339c3c423703add/Proteja-sua-vida%20final.pdf)
 
 # E-book Proteja Sua Vida! 🔒
 O uso Inteligente dos Smartphones.
@@ -28,7 +28,7 @@ Este projeto explora o uso de IAs generativas para criar um e-book com conteúdo
 A criação deste projeto mostrou como as IAs podem acelerar processos criativos, mas também reforçou a importância da curadoria humana para resultados realmente impactantes.  
 
 ## 🌍 Compartilhe  
-Gostou? Deixe um ⭐ no repositório e compartilhe nas redes sociais com a hashtag **#LabDIONattyOrNot**!  
+Gostou? Deixe um ⭐ no repositório e compartilhe nas redes sociais com a hashtag **#LabDIONattyOrNot**! 
 
 
 
